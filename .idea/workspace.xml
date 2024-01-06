@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84df601-debd-4de2-b4fe-052d78eae22c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/post/debate-formats.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/divider6.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-texify2" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-texify2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-texify2/exampleSite/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-texify2/exampleSite/hugo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-texify2/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-texify2/hugo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-texify2/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-texify2/layouts/_default/baseof.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-texify2/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-texify2/layouts/partials/footer.html" afterDir="false" />
@@ -21,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hugo-texify2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/felix/Development/hugo/themes/hugo-texify2/static",
+    "last_opened_file_path": "C:/Users/felix/Development/hugo/content/post",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,8 +56,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Development\hugo\content\post" />
+      <recent name="C:\Users\felix\Development\hugo\templates" />
       <recent name="C:\Users\felix\Development\hugo\themes\hugo-texify2\static" />
       <recent name="C:\Users\felix\Development\hugo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Development\hugo\static\images" />
+      <recent name="C:\Users\felix\Development\hugo\static" />
+      <recent name="C:\Users\felix\Development\hugo\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704535896078</updated>
-      <workItem from="1704535897079" duration="4692000" />
+      <workItem from="1704535897079" duration="7882000" />
     </task>
     <servers />
   </component>
