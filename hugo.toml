@@ -1,4 +1,4 @@
-baseURL = "https://texify2.io"
+baseURL = "https://felixmihifavit.com"
 disqusShortname = ""
 enableGitInfo = true
     enableRobotsTXT = true
@@ -8,7 +8,7 @@ languageCode = "en"
 paginate = 5
 rssLimit = 10
 theme = "hugo-texify2"
-title = "TeXify2 - hugo theme | weastur"
+title = "Felix mihi favit"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
@@ -35,5 +35,4 @@ code = """
 
 [params.buymeacoffee]
 code = """
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="weastur" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 """
