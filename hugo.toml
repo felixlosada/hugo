@@ -1,7 +1,7 @@
 baseURL = "https://texify2.io"
 disqusShortname = ""
 enableGitInfo = true
-enableRobotsTXT = true
+    enableRobotsTXT = true
 googleAnalytics = "G-0GZRVRLSQV"
 hasCJKLanguage = true
 languageCode = "en"
