@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wd40.tech/sitemap.xml
+Sitemap: https://felixmihifavit.com/sitemap.xml

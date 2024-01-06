@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Felix mihi favit</title>
-    <link>https://wd40.tech/tags/</link>
+    <link>https://felixmihifavit.com/tags/</link>
     <description>Recent content in Tags on Felix mihi favit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>felixlosada@outlook.com (Felix L)</managingEditor>
-    <webMaster>felixlosada@outlook.com (Felix L)</webMaster><atom:link href="https://wd40.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>felixlosada@outlook.com (Felix L)</webMaster><atom:link href="https://felixmihifavit.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
