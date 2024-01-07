@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://felixlosada.github.io/sitemap.xml
+Sitemap: https://felixmihifavit.com/sitemap.xml
