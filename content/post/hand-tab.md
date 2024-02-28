@@ -29,7 +29,7 @@ You should take care of the following items during the week prior to the tournam
 
 ### Tab Rules
 
-Here is a copy of the specific [Tab Policy] that I use.  In the instructions to follow, I assume that you're using my tab rules (which are mostly standard for APDA tournaments).  Not every tournament employs the same rules, so you may have to modify my instructions if you decide to alter the rules.  If you alter them substantially, my method might not work at all.  Whatever rules you adopt, you should be sure to write them down as clearly as possible, and distribute them to the competitors prior to the competition. 
+Here is a copy of the specific [Tab Policy](/images/tabrules.htm) that I use.  In the instructions to follow, I assume that you're using my tab rules (which are mostly standard for APDA tournaments).  Not every tournament employs the same rules, so you may have to modify my instructions if you decide to alter the rules.  If you alter them substantially, my method might not work at all.  Whatever rules you adopt, you should be sure to write them down as clearly as possible, and distribute them to the competitors prior to the competition. 
 
 ### Tab Cards
 
